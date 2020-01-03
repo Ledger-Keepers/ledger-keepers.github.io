@@ -1,0 +1,683 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="accountingservices.com" resolutions="1x" timestamp="1510130894541">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4237034651" ref="index:services:contact:about:products"/>
+    <file name="nomq_preview_master_a-master.css" crc="123800655" ref="index:services:contact:about:products"/>
+    <file name="index.css" crc="4054693353" ref="index"/>
+    <file name="nomq_index.css" crc="3955613433" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="services.css" crc="4244381518" ref="services"/>
+    <file name="nomq_services.css" crc="232089209" ref="services"/>
+    <file name="iefonts_services.css" crc="3824530138" ref="services"/>
+    <file name="contact.css" crc="358377363" ref="contact"/>
+    <file name="nomq_contact.css" crc="309161282" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+    <file name="about.css" crc="3920001395" ref="about"/>
+    <file name="nomq_about.css" crc="513696945" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="products.css" crc="487930453" ref="products"/>
+    <file name="nomq_products.css" crc="3965248394" ref="products"/>
+    <file name="iefonts_products.css" crc="3824530138" ref="products"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:services:products:contact"/>
+    <file name="museutils.js" crc="4216313831" ref="index:about:services:products:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:services:products:contact"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:about:services:products:contact"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:about:services:products:contact"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:about:services:products:contact"/>
+    <file name="webpro.js" crc="4143865194" ref="index:about:services:products:contact"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:about:services:products:contact"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:about:services:products:contact"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:about:services:products:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:about:services:products:contact"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index:about"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:about:services:products:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:products:contact"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:about:services:products:contact"/>
+    <file name="require.js" crc="3951022091" ref="index:about:services:products:contact"/>
+    <file name="form_check.php" crc="154010282" ref="services"/>
+    <file name="form_throttle.php" crc="266437015" ref="services"/>
+    <file name="form_process.php" crc="512629711" ref="services"/>
+    <file name="form-u36985.php" crc="146609919" ref="services"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="336721553" ref="index:services:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:services:products:contact"/>
+    <file name="home-slider1.jpg" crc="3770612988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-slider2.jpg" crc="3770612988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="features1-u747-10-fr.png" crc="4091993917" ref="index"/>
+    <file name="features1-u747-10-r-fr.png" crc="62219185" ref="index"/>
+    <file name="features3-u1093-10-fr.png" crc="4091993917" ref="index"/>
+    <file name="features3-u1093-10-r-fr.png" crc="62219185" ref="index"/>
+    <file name="features2-u1084-10-fr.png" crc="4091993917" ref="index"/>
+    <file name="features2-u1084-10-r-fr.png" crc="62219185" ref="index"/>
+    <file name="buttontriger.png" crc="351352745" ref="index:services">
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="index" alt="﷯ We Are Professionals"/>
+      <caption webpage="index" alt="﷯ We Are Trusted"/>
+      <caption webpage="index" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+      <caption webpage="services" alt="﷯ We Are Professionals"/>
+      <caption webpage="services" alt="﷯ We Are Trusted"/>
+      <caption webpage="services" alt="﷯ We Are Experts"/>
+    </file>
+    <file name="why-us1.jpg" crc="4245277759" ref="index:services">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="why-us2.jpg" crc="4245277759" ref="index:services">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="why-us3.jpg" crc="4245277759" ref="index:services">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotes-u1006-fr.png" crc="480992845" ref="index"/>
+    <file name="quote.png" crc="3915998073" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news1-u12239-fr.jpg" crc="3882972461" ref="index"/>
+    <file name="news2-u12539-fr.jpg" crc="3882972461" ref="index"/>
+    <file name="news3-u12649-fr.jpg" crc="3882972461" ref="index"/>
+    <file name="news4-u12759-fr.jpg" crc="3882972461" ref="index"/>
+    <file name="quote-u12964-fr.png" crc="3769698007" ref="index"/>
+    <file name="logo1.png" crc="4223932538" ref="index:about:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logo2.png" crc="454005322" ref="index:about:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logo3.png" crc="3829953386" ref="index:about:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logo4.png" crc="4126210719" ref="index:about:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logo5.png" crc="122729990" ref="index:about:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logo6.png" crc="4060385020" ref="index:about:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logo-dark.png" crc="425615618" ref="index:services:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="news1-u12239-fr2.jpg" crc="356182003" ref="index"/>
+    <file name="news2-u12539-fr2.jpg" crc="356182003" ref="index"/>
+    <file name="news3-u12649-fr2.jpg" crc="356182003" ref="index"/>
+    <file name="news4-u12759-fr2.jpg" crc="356182003" ref="index"/>
+    <file name="news1.jpg" crc="496211216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news2.jpg" crc="496211216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news3.jpg" crc="496211216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news4.jpg" crc="496211216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1-u14504-fr.png" crc="3888134300" ref="index"/>
+    <file name="logo2-u14521-fr.png" crc="374026909" ref="index"/>
+    <file name="logo3-u14552-fr.png" crc="234229331" ref="index"/>
+    <file name="logo4-u14583-fr.png" crc="3951379286" ref="index"/>
+    <file name="logo5-u14614-fr.png" crc="321663936" ref="index"/>
+    <file name="logo6-u14645-fr.png" crc="4220208158" ref="index"/>
+    <file name="close-menu.png" crc="207138966" ref="index:services:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="mobile-menu.png" crc="4176176526" ref="index:services:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="quote-u12985-fr.png" crc="3890122169" ref="index"/>
+    <file name="logo1-u14504-fr2.png" crc="3768842508" ref="index"/>
+    <file name="logo4-u14583-fr2.png" crc="3793998031" ref="index"/>
+    <file name="logo2-u14521-fr2.png" crc="192412937" ref="index"/>
+    <file name="logo5-u14614-fr2.png" crc="4036101526" ref="index"/>
+    <file name="logo3-u14552-fr2.png" crc="203244849" ref="index"/>
+    <file name="logo6-u14645-fr2.png" crc="398350238" ref="index"/>
+    <file name="logo1-u14688-fr.png" crc="130046318" ref="index"/>
+    <file name="logo4-u14687-fr.png" crc="3847168664" ref="index"/>
+    <file name="logo2-u14690-fr.png" crc="62435813" ref="index"/>
+    <file name="logo5-u14692-fr.png" crc="54124098" ref="index"/>
+    <file name="logo3-u14689-fr.png" crc="15504933" ref="index"/>
+    <file name="logo6-u14691-fr.png" crc="224437343" ref="index"/>
+    <file name="about-header.jpg" crc="3856614952" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="architecture-1867772_1920.jpg" crc="4155901649" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about.jpg" crc="4018910844" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-mission.jpg" crc="4018910844" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-focus.jpg" crc="4018910844" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team1.jpg" crc="86034424" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team2.jpg" crc="86034424" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team3.jpg" crc="86034424" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team4.jpg" crc="86034424" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="why-choosebg-u21413-fr.png" crc="4288055033" ref="about"/>
+    <file name="why-choose1.jpg" crc="3777393609" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="why-choose2.jpg" crc="3777393609" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="why-choose3.jpg" crc="3777393609" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about-header-u19604-fr.jpg" crc="3965397543" ref="about"/>
+    <file name="architecture-1867772_1920-u19654-fr.jpg" crc="259053657" ref="about"/>
+    <file name="about445x297.jpg" crc="3924723904" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-mission450x300.jpg" crc="193643518" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-focus445x297.jpg" crc="3924723904" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about-header-u19604-fr2.jpg" crc="3968074734" ref="about"/>
+    <file name="architecture-1867772_1920-u19654-fr2.jpg" crc="3891525192" ref="about"/>
+    <file name="about345x230.jpg" crc="3947057497" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-mission345x230.jpg" crc="3947057497" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-focus345x230.jpg" crc="3947057497" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo1-u17871-fr.png" crc="371324397" ref="about"/>
+    <file name="logo2-u17868-fr.png" crc="3909801600" ref="about"/>
+    <file name="logo3-u17872-fr.png" crc="387828854" ref="about"/>
+    <file name="logo4-u17869-fr.png" crc="445729582" ref="about"/>
+    <file name="logo5-u17873-fr.png" crc="452046232" ref="about"/>
+    <file name="logo6-u17870-fr.png" crc="3889380174" ref="about"/>
+    <file name="logo1-u17862-fr.png" crc="4157346465" ref="about"/>
+    <file name="logo2-u17860-fr.png" crc="4002562707" ref="about"/>
+    <file name="logo3-u17861-fr.png" crc="122834436" ref="about"/>
+    <file name="logo4-u17863-fr.png" crc="382364464" ref="about"/>
+    <file name="logo5-u17858-fr.png" crc="246345021" ref="about"/>
+    <file name="logo6-u17859-fr.png" crc="4261929554" ref="about"/>
+    <file name="about-header-u19604-fr3.jpg" crc="162661934" ref="about"/>
+    <file name="our-mission295x197.jpg" crc="4216228216" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-focus295x197.jpg" crc="4216228216" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about-header-u19604-fr4.jpg" crc="4031817935" ref="about"/>
+    <file name="our-mission245x164.jpg" crc="349046014" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-focus245x164.jpg" crc="349046014" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="architecture-1867772_1920-u19654-fr3.jpg" crc="157561036" ref="about"/>
+    <file name="about398x266.jpg" crc="4042549516" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-mission399x266.jpg" crc="109306268" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-focus400x267.jpg" crc="57334035" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="architecture-1867772_1920-u19654-fr4.jpg" crc="164370127" ref="about"/>
+    <file name="about300x200.jpg" crc="6053" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="our-mission300x200.jpg" crc="6053" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="services-header.jpg" crc="3856614952" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="services-bg-u36967-fr.png" crc="130495430" ref="services"/>
+    <file name="services-header-u24119-fr.jpg" crc="3965397543" ref="services"/>
+    <file name="services-header-u24119-fr2.jpg" crc="3968074734" ref="services"/>
+    <file name="services-header-u24119-fr3.jpg" crc="4062998485" ref="services"/>
+    <file name="services-bg.jpg" crc="3770612988" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="products-header.jpg" crc="3856614952" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="iphone-160307_1280.png" crc="45437010" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="phone-screen.jpg" crc="118654265" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="products-bg-u39812-fr.png" crc="3874619015" ref="products"/>
+    <file name="product-image1.jpg" crc="350434461" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="product-image2.jpg" crc="318688033" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="products-header-u38048-fr.jpg" crc="3965397543" ref="products"/>
+    <file name="product-image2258x172.jpg" crc="3840762841" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="products-header-u38048-fr2.jpg" crc="3968074734" ref="products"/>
+    <file name="product-image1345x230.jpg" crc="4294189602" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logo1-u39938-fr.png" crc="349820783" ref="products"/>
+    <file name="logo2-u39942-fr.png" crc="3999087898" ref="products"/>
+    <file name="logo3-u39939-fr.png" crc="27706425" ref="products"/>
+    <file name="logo4-u39941-fr.png" crc="71917978" ref="products"/>
+    <file name="logo5-u39943-fr.png" crc="489725407" ref="products"/>
+    <file name="logo6-u39940-fr.png" crc="111692324" ref="products"/>
+    <file name="logo1-u39950-fr.png" crc="522297034" ref="products"/>
+    <file name="logo2-u39949-fr.png" crc="271936596" ref="products"/>
+    <file name="logo3-u39945-fr.png" crc="3789195953" ref="products"/>
+    <file name="logo4-u39947-fr.png" crc="477183854" ref="products"/>
+    <file name="logo5-u39946-fr.png" crc="3977508497" ref="products"/>
+    <file name="logo6-u39948-fr.png" crc="203443237" ref="products"/>
+    <file name="products-header-u38048-fr3.jpg" crc="4062998485" ref="products"/>
+    <file name="product-image2295x197.jpg" crc="3990731754" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="product-image1295x197.jpg" crc="31817050" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="phone-screen-u39634-fr.jpg" crc="3832000277" ref="products"/>
+    <file name="product-image2245x164.jpg" crc="3957194181" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="product-image1245x164.jpg" crc="426546551" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="phone-screen-u39634-fr2.jpg" crc="484573462" ref="products"/>
+    <file name="product-image2300x200.jpg" crc="4163964207" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="product-image1299x200.jpg" crc="270368869" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="contact-header.jpg" crc="3856614952" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="contact-header-u41151-fr.jpg" crc="3965397543" ref="contact"/>
+    <file name="contact-header-u41151-fr2.jpg" crc="3968074734" ref="contact"/>
+    <file name="contact-header-u41151-fr3.jpg" crc="4062998485" ref="contact"/>
+    <file name="facts-bg-u16745-fr.png" crc="3937446580" ref="about"/>
+  </folder>
+  <file name="index.html" crc="4276790819" seo="true" mt="1510128755169" redirect="true"/>
+  <file name="about.html" crc="4051029791" seo="true" mt="1510130865014" redirect="true"/>
+  <file name="services.html" crc="94508159" seo="true" mt="1510130230438" redirect="true"/>
+  <file name="products.html" crc="3886697127" seo="true" mt="1510130562004" redirect="true"/>
+  <file name="contact.html" crc="4284519982" seo="true" mt="1510130625697" redirect="true"/>
+</manifest>
